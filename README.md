@@ -1,4 +1,6 @@
 ## Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/remicq_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://remszko.github.io/Witryny_prac/)  
+
 
 <!--
 **remszko/remszko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
